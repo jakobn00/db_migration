@@ -1,0 +1,14 @@
+{
+  "db_source": "config_troll.db",
+  "db_target": "config_target.db",
+  "naming": "new",
+  "update_naming": false,
+  "read_system_settings": true,
+  "commit": true,
+  "add_field":
+  {
+    "devices-type": false,
+    "entities-timerunning": false
+  }
+}
+
